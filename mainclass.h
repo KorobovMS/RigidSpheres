@@ -7,7 +7,7 @@
 #include <qpushbutton.h>
 #include <qlineedit.h>
 #include <GL/glut.h>
-#include <Qt/qgl.h>
+#include <QtOpenGL/qgl.h>
 #include <qlayout.h>
 #include "vector.h"
 #include "paintingclass.h"
